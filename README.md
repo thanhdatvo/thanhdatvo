@@ -2,5 +2,5 @@
 
 - 🔥 Rust & Go Developer
 - 🧠 Learning algorithms & system design
-- 🚀 Building ExaJoy
+- 🚀 Building Exajoy
 - 🦀 Working with Rust, WebRTC, Kubernetes, Knative
