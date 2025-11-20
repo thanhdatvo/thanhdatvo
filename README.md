@@ -1,4 +1,4 @@
-# Hi, I'm Ethan Vo 👋
+# Hi, I'm Dat Vo 👋
 
 - 🔥 Rust & Go Developer
 - 🧠 Learning algorithms & system design
