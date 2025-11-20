@@ -1,4 +1,4 @@
-# Hi, I'm Dat 👋
+# Hi, I'm Ethan 👋
 
 - 🔥 Rust & Go Developer
 - 🧠 Learning algorithms & system design
