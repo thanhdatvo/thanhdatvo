@@ -5,4 +5,4 @@
 - 🚀 Building Exajoy
 - 🦀 Working with Rust, WebRTC, Kubernetes, Knative
 
-True name: Thanh Dat Vo
+Vietnamese name: Võ Thành Đạt
