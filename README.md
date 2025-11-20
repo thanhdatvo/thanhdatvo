@@ -1,4 +1,4 @@
-# Hi, I'm Thanh Dat Vo (Nickname: Ethan) 👋
+# Hi, I'm Ethan (True name: Thanh Dat Vo) 👋
 
 - 🔥 Rust & Go Developer
 - 🧠 Learning algorithms & system design
