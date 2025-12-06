@@ -1,8 +1,7 @@
 # Hi, I'm Dat Vo 👋
 
-- 🔥 Rust & Go Developer
-- 🧠 Learning algorithms & system design
-- 🚀 Building Exajoy
-- 🦀 Working with Rust, WebRTC, Kubernetes, Knative
+- Languages: Rust, Go, Typescript and Dart
+- Learning algorithms & system design
+- Working with Rust, WebRTC, Kubernetes, Knative
 
 
