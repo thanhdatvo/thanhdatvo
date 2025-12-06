@@ -1,7 +1,7 @@
 # Hi, I'm Dat Vo 👋
 
 ## In the past 
-I was a fullstack developer with React-ReactNative and Flutter as frontend tool, and Nodejs, Golang as backend tools.
+I was a fullstack developer with React-ReactNative and Flutter as frontend tools, and Nodejs, Golang as backend tools.
 
 I handled deployment with Terraform, Github Action and scaling with Knative and Kubeneters.
 
