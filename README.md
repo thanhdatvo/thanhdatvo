@@ -7,10 +7,10 @@ I handled deployment with Terraform, Github Action and scaling with Knative and 
 
 I was familiar with Google Cloud Platform.
 
-## Today, 
-I'm learning algorithms & system design.
+## Currently
+I'm self-learning algorithms, networking and high reliable system design.
 
-I'm currently focusing on network programming with Rust, WebRTC, Kubernetes, Knative.
+I'm focusing on network programming with Rust, WebRTC, Kubernetes, Knative.
 
 Happy to connect!
 
