@@ -1,18 +1,7 @@
-# Hi, I'm Dat Vo 👋
+# Hi, I’m Dat Vo 👋
 
-## In the past 
-I was a fullstack developer with React-ReactNative and Flutter as frontend tools, and Nodejs, Golang as backend tools.
+I’m a backend Go developer with experience in deployment using Terraform and GitHub Actions, and in building scalable systems with Kubernetes and Knative.
 
-I handled deployment with Terraform, Github Action and scaling with Knative and Kubeneters.
-
-I was familiar with Google Cloud Platform.
-
-## Currently
-I'm self-learning algorithms, networking and high reliable system design.
-
-I'm focusing on network programming with Rust, WebRTC, Kubernetes, Knative.
+I have hands-on experience with Google Cloud Platform and I’m continuously learning algorithms, networking, and highly reliable system design.
 
 Happy to connect!
-
-
-
