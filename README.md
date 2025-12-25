@@ -1,7 +1,6 @@
 # Hi, I’m Dat Vo 👋
 
-I’m a backend Go developer with experience in deployment using Terraform and GitHub Actions, and in building scalable systems with Kubernetes and Knative.
-
-I have hands-on experience with Google Cloud Platform and I’m continuously learning algorithms, networking, and highly reliable system design.
+I’m a backend Go developer who enjoys building and scaling systems with Kubernetes and Knative. 
+I’ve handled deployments using Terraform and have experience working with Google Cloud Platform.
 
 Happy to connect!
